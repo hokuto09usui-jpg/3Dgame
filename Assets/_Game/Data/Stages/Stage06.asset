@@ -13,15 +13,15 @@ MonoBehaviour:
   m_Name: Stage06
   m_EditorClassIdentifier: Assembly-CSharp::StageData
   stageId: 6
-  stageName: 
+  stageName: 6
   description: 
   stageImage: {fileID: 0}
-  isEndless: 0
+  isEndless: 1
   timeLimit: 120
   targetScore: 1000
   blueSlimeRate: 0
   spawnInterval: 1
   maxEnemies: 20
-  increaseEnemyHP: 0
+  increaseEnemyHP: 1
   hpIncreaseInterval: 20
   hpIncreaseRate: 0.1
