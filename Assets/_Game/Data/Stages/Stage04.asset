@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2aa60c39a5ad054bb2b19a440dcc32f, type: 3}
+  m_Name: Stage04
+  m_EditorClassIdentifier: Assembly-CSharp::StageData
+  stageId: 4
+  stageName: 
+  description: 
+  stageImage: {fileID: 0}
+  isEndless: 0
+  timeLimit: 120
+  targetScore: 1000
+  blueSlimeRate: 0
+  spawnInterval: 1
+  maxEnemies: 20
+  increaseEnemyHP: 0
+  hpIncreaseInterval: 20
+  hpIncreaseRate: 0.1
